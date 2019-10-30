@@ -6,8 +6,6 @@ The 64 iChing Hexagrams in a 8 x 8 grid
 // To draw the following image:
 // http://baharna.com/iching/images/Plate2_Fig1_Hexagrams_FuHsi.gif
 // https://en.wikipedia.org/wiki/I_Ching#/media/File:Diagram_of_I_Ching_hexagrams_owned_by_Gottfried_Wilhelm_Leibniz,_1701.jpg
-// http://www.ichingfortune.com/hexagrams.php
-
 
 
 int black  = 0;
